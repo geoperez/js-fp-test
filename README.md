@@ -8,6 +8,7 @@ Create a `Transformer` object with a `transform` function with the following spe
 
 * `transform` will receive an object and output another object.
 * All the functions inside `Transformer` MUST be pure functions.
+* Functions MUST have less of two arguments.
 * All data structures MUST be immutable.
 * The statements `if-else`, `for`, `for-in`, `while` and `do-while` are forbidden.
 
