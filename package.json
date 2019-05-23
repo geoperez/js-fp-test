@@ -1,0 +1,29 @@
+{
+  "name": "js-fp-test",
+  "version": "1.0.0",
+  "description": "Js FP Test for Unosquare R&D",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoperez/js-test.git"
+  },
+  "author": "Geo Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoperez/js-test/issues"
+  },
+  "homepage": "https://github.com/geoperez/js-test#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/register": "^7.4.4",
+    "@babel/runtime": "^7.4.5",
+    "uno": "0.0.2"
+  }
+}
